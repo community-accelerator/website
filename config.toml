@@ -1,4 +1,126 @@
 baseURL = "https://community-accelerator.github.io/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+languageCode = "en-GB"
+title = "Community Accelerator"
+theme = "hugo-icon"
 publishDir = "docs"
+
+# Metadata
+[params]
+  author = "Yogster Bear"
+  #description = "Cool description"
+
+# Hero section (from here on is for icon theme)
+[params.hero]
+  img = "images/hero_bg.jpg"
+  title = "Community Accelerator"
+  description = '<p>We are a small group of people committed to inclusivity and social justice, respecting resource limits and creating resilience in our community.</p><p>We want to help make things happen and are looking to gift our time to local projects who are seeking environmental, social and economic solutions to some of the challenges of our times.</p><p>Please <a href="#fh5co-contact">contact us</a> for an informal discussion of how we might work together.</p>'
+
+# Navigation section
+[params.nav]
+  mission = "Mission"
+  services = "Skills"
+  team = "People"
+  contact = "Get In Touch"
+
+# Mission section
+[params.mission]
+  enable = true
+
+  [params.mission.images]
+    enable = false
+
+  [[params.mission.item]]
+    weight = 1
+    name = "problem"
+    title = "The problem"
+    subtitle = "Portsmouth finds itself in the midst of exciting times."
+    description = "<p>There are lots of small grassroots projects, many enthusiastic people who are working hard and attempting to do big things – important things – while also working in their day jobs, studying and looking after their families.</p><p>There is an abundance of passion and enthusiasm to contribute to positive change for the environment and people living here in Portsmouth, but perhaps, for some projects, there is also a lack of focused skills and support to be able to achieve these goals.</p><p>Examples of challenges people face:<ul class='checked'><li>Projects that struggle to move into action and results.</li><li>Gaps in marketing, project management, technology skills.</li></ul></p>"
+
+    [[params.mission.item]]
+    weight = 2
+    name = "solution"
+    title = "The solution"
+    subtitle = "We are a small group of people committed to inclusivity and social justice, respecting resource limits and creating resilience in our community."
+    description = "<p>We believe in using creative ways to engage and involve people, encouraging them to imagine the future they want to inhabit. We want to help make things happen and are looking to gift our time to local projects who are seeking environmental, social and economic solutions to some of the challenges of our times.</p><p>We are taking expressions of interest from anyone who thinks they could use our skills to get their project off the ground, past any blocks, or to the next level of action and results. Please contact us for an informal discussion of how we might work together.</p>"
+
+# Services section
+[params.services]
+  enable = true
+  video = false
+  title = "Our Skills"
+  description = "This is how we can contribute to your community project:"
+
+  [[params.services.item]]
+    icon = "icon-graduation"
+    title = "Training"
+    description = "Meeting facilitation, project planning and management."
+
+  [[params.services.item]]
+    icon = "icon-heart"
+    title = "Marketing"
+    description = "Digital, print, commuting engagement, campaigning."
+
+  [[params.services.item]]
+    icon = "icon-wallet"
+    title = "Fundraising"
+    description = "Strategy/applications/crowd funding/angel investing/seed funding."
+
+  [[params.services.item]]
+    icon = "icon-compass"
+    title = "Coaching"
+    description = "Leadership coaching."
+
+    [[params.services.item]]
+    icon = "icon-briefcase"
+    title = "Strategy"
+    description = "Business and Finance strategy."
+
+  [[params.services.item]]
+    icon = "icon-screen-desktop"
+    title = "Technology"
+    description = "Technology consulting and software development."
+
+# Work section
+[params.work]
+  enable = false
+
+# Team section
+[params.team]
+  enable = true
+  title = "People"
+  description = ""
+
+  [[params.team.item]]
+    name = "David Raybould"
+    description = "<p>Dave is an entrepreneur, executive coach, speaker and founder of Kaizen Effect. He's known for developing high performing leaders and teams that work together harmoniously to achieve all their targets, without stress or overtime.</p><p>Over the last three years he's worked with 100+ business leaders in the UK, Europe and USA.</p><p>Dave spent five years leading groups as a Snowboard Coach in USA, Europe and Australia. He honed his business skills building a successful Financial Planning practice and has since worked with solo-preneurs through to global multi-national corporations as an executive coach and consultant.</p>"
+    img = "images/david.jpeg"
+    facebook = "https://www.facebook.com/david.raybould1"
+    twitter = "https://twitter.com/Kaizen_Effect"
+    linkedin = "https://uk.linkedin.com/in/davidraybould2"
+
+  [[params.team.item]]
+    name = "Emma Collins"
+    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+    img = "images/person1.jpg"
+    facebook = "https://www.facebook.com/emma.collins.5245961"
+    linkedin = "https://www.linkedin.com/in/emmacollinscoaching"
+
+  [[params.team.item]]
+    name = "Marvin Fray"
+    description = '<p>I passionate about bringing positive change to the world by fuelling the creative spark in individuals and teams. I believe when people and ideas are given the support they need, anything can happen. I have spent most of my career as a technology leader and strategist, developing and delivering critical systems into emergency services around the world.</p><p>I co-founded <a href="http://kiticow.com">Kiticow</a> to help turn life-changing ideas into a reality. Kiticow originally set out to accelerate budding startups by providing technical leadership and product development services. I am now re-working Kiticow to support local community initiatives.</p><p>Born and bred in Portsmouth, I envisage an interdependent local community that places the wellbeing of each other above personal wealth and material gain.</p>'
+    img = "images/marvin.jpg"
+    facebook = "https://www.facebook.com/marvin.fray"
+    twitter = "https://twitter.com/marvito"
+    linkedin = "https://uk.linkedin.com/in/marvin-fray-1b183118"
+
+# Contact section
+[params.contact]
+  enable = true
+  title = "Get In Touch"
+  message = "We are taking expressions of interest from anyone who thinks they could use our skills to get their project off the ground, past any blocks, or to the next level of action and results. Please contact us for an informal discussion of how we might work together."
+
+# Footer section
+# Note here that the copyright and attribution statement must remain as part of the license agreement. If you wish to remove this, please contact freehtml5 and pay for a professional license.
+[params.footer]
+  enable = true
+  note = "<p><small>&copy; 2016 Free HTML5 Template. All Rights Reserved. <br> Designed by <a href='http://freehtml5.co/' target='_blank'>FreeHTML5.co</a> Demo Images: <a href='http://pexels.com/' target='_blank'>Pexels</a><br>Hugo port by <a href='https://github.com/SteveLane/' target='_blank'>SteveLane</a></small></p>"
