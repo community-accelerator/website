@@ -1,0 +1,4 @@
+baseURL = "https://community-accelerator.github.io/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+publishDir = "docs"
