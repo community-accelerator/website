@@ -1,4 +1,4 @@
-baseURL = "https://community-accelerator.github.io/website/"
+baseURL = "https://community-accelerator.github.io/"
 languageCode = "en-GB"
 title = "Community Accelerator"
 theme = "hugo-icon"
