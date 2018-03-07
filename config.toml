@@ -13,7 +13,7 @@ publishDir = "docs"
 [params.hero]
   img = "images/hero_bg.jpg"
   title = "Community Accelerator"
-  description = '<p>We are a small group of people committed to inclusivity and social justice, respecting resource limits and creating resilience in our community.</p><p>We want to help make things happen and are looking to gift our time to local projects who are seeking environmental, social and economic solutions to some of the challenges of our times.</p><p>Please <a href="#fh5co-contact">contact us</a> for an informal discussion of how we might work together.</p>'
+  description = '<p>We are a group of people from Portsmouth looking to gift our time to local projects who are seeking environmental, social and economic solutions to some of the challenges of our times.</p><p><a href="#fh5co-contact">Contact us</a> for an informal discussion of how we might work together.</p>'
 
 # Navigation section
 [params.nav]
@@ -37,7 +37,7 @@ publishDir = "docs"
     description = "<p>There are lots of small grassroots projects, many enthusiastic people who are working hard and attempting to do big things – important things – while also working in their day jobs, studying and looking after their families.</p><p>There is an abundance of passion and enthusiasm to contribute to positive change for the environment and people living here in Portsmouth, but perhaps, for some projects, there is also a lack of focused skills and support to be able to achieve these goals.</p><p>Examples of challenges people face:<ul class='checked'><li>Projects that struggle to move into action and results.</li><li>Gaps in marketing, project management, technology skills.</li></ul></p>"
 
     [[params.mission.item]]
-    weight = 2
+    weight = 1
     name = "solution"
     title = "The solution"
     subtitle = "We are a small group of people committed to inclusivity and social justice, respecting resource limits and creating resilience in our community."
