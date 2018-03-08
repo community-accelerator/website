@@ -16,6 +16,20 @@
   padding: 20px;
 }
 
+.person {
+  height: 1275px;
+  position: relative;
+}
+
+#fh5co-team .person .social {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  padding-bottom: 20px;
+  display: block;
+}
+
 @media screen and (max-width: 320px) {
   #fh5co-home .fh5co-copy-inner h1 {
     font-size: 45px;
@@ -43,5 +57,16 @@
 
   #fh5co-contact .form-control {
     border: 1px solid #E8ECF1;
+  }
+}
+
+@media screen and (max-width: 992px) {
+  .person {
+    height: 730px;
+    overflow: hidden;
+  }
+
+  .person p:not(:nth-of-type(2)) {
+    display: none;
   }
 }
