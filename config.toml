@@ -91,7 +91,7 @@ theme = "hugo-icon"
 
   [[params.team.item]]
     name = "David Raybould"
-    description = "<p>Dave is an entrepreneur, executive coach, speaker and founder of Kaizen Effect. He's known for developing high performing leaders and teams that work together harmoniously to achieve all their targets, without stress or overtime.</p><p>Over the last three years he's worked with 100+ business leaders in the UK, Europe and USA.</p><p>Dave spent five years leading groups as a Snowboard Coach in USA, Europe and Australia. He honed his business skills building a successful Financial Planning practice and has since worked with solo-preneurs through to global multi-national corporations as an executive coach and consultant.</p>"
+    description = "<p>Dave is an entrepreneur, executive coach, speaker and founder of <a href=\"https://www.kaizeneffect.uk/\">Kaizen Effect</a>. He's known for developing high performing leaders and teams that work together harmoniously to achieve all their targets, without stress or overtime.</p><p>Over the last three years he's worked with 100+ business leaders in the UK, Europe and USA.</p><p>Dave spent five years leading groups as a Snowboard Coach in USA, Europe and Australia. He honed his business skills building a successful Financial Planning practice and has since worked with solo-preneurs through to global multi-national corporations as an executive coach and consultant.</p>"
     img = "images/david.jpeg"
     facebook = "https://www.facebook.com/david.raybould1"
     twitter = "https://twitter.com/Kaizen_Effect"

@@ -12,6 +12,10 @@
   float: none;
 }
 
+#emailHelp {
+  padding: 20px;
+}
+
 @media screen and (max-width: 320px) {
   #fh5co-home .fh5co-copy-inner h1 {
     font-size: 45px;
@@ -23,9 +27,7 @@
   #contactForm button {
     width: 100%;
   }
-}
 
-@media screen and (max-width: 768px) {
   #fh5co-home h2 {
     background-color: rgba(127, 127, 127, 0.6);
     color: white;
@@ -33,5 +35,13 @@
 
   #fh5co-home .fh5co-copy-inner h2 {
     color: white;
+  }
+
+  #emailHelp {
+    font-size: 66%
+  }
+
+  #fh5co-contact .form-control {
+    border: 1px solid #E8ECF1;
   }
 }
