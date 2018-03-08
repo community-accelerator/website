@@ -33,7 +33,7 @@ theme = "hugo-icon"
     name = "problem"
     title = "The problem"
     subtitle = "Portsmouth finds itself in the midst of exciting times."
-    description = "<p>There are lots of small grassroots projects, many enthusiastic people who are working hard and attempting to do big things – important things – while also working in their day jobs, studying and looking after their families.</p><p>There is an abundance of passion and enthusiasm to contribute to positive change for the environment and people living here in Portsmouth, but perhaps, for some projects, there is also a lack of focused skills and support to be able to achieve these goals.</p><p>Examples of challenges people face:<ul class='checked'><li>Projects that struggle to move into action and results.</li><li>Gaps in marketing, project management, technology skills.</li></ul></p>"
+    description = "<p>There are lots of small grassroots projects, many enthusiastic people who are working hard and attempting to do big things – important things – while also working in their day jobs, studying and looking after their families.</p><p>It is truly wonderful to see such an abundance of passion and enthusiasm to contribute to positive change for the environment and people living here in Portsmouth. We would love to get involved by offering focused skills and support to work through the challenges faced start up projects, and to help people achieve their goals.</p><p>Examples of challenges people face:<ul class='checked'><li>Projects that struggle to move into action and results.</li><li>Gaps in marketing, project management, technology skills.</li></ul></p>"
 
     [[params.mission.item]]
     weight = 1
@@ -99,7 +99,7 @@ theme = "hugo-icon"
 
   [[params.team.item]]
     name = "Emma Collins"
-    description = '<p>Emma is an ICF Accredited Coach and a <a href="http://www.cnvc.org/cert-directory">CNVC Nonviolent Communication Certified Trainer</a> with a background in Psychotherapeutic Counselling and Mindfulness; an international trainer offering Leadership Programs, Collaborative Communication workshops and a <a href="http://thedaringway.com/help/">Certified Daring Way™ Facilitator</a>.</p><p>She believes passionately in our capacity to grow a kind of village mindedness and to recognise that now, perhaps more than ever, we are needed by one another to create the kinds of community we want to live in.</p><p>Emma has a background in Social Change, worked in the voluntary sector in Portsmouth for many years and is also a director of social impact for a local Community Interest Company.</p>'
+    description = '<p>Emma is an ICF Accredited Coach and an international trainer offering Leadership Programs, Collaborative Communication workshops and a <a href="http://thedaringway.com/help/">Certified Daring Way™ Facilitator</a>.</p><p>She has a background in Social Change, worked in the voluntary sector in Portsmouth for many years and is also Director of Social Impact for a local Social Enterprise.</p><p>She believes passionately in our capacity to grow a kind of village mindedness and to recognise that now, perhaps more than ever, we are needed by one another to create the kinds of community we want to live in.</p>'
     img = "images/emma.jpg"
     facebook = "https://www.facebook.com/emma.collins.5245961"
     linkedin = "https://www.linkedin.com/in/emmacollinscoaching"
