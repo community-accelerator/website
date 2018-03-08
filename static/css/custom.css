@@ -24,3 +24,14 @@
     width: 100%;
   }
 }
+
+@media screen and (max-width: 768px) {
+  #fh5co-home h2 {
+    background-color: rgba(127, 127, 127, 0.6);
+    color: white;
+  }
+
+  #fh5co-home .fh5co-copy-inner h2 {
+    color: white;
+  }
+}
