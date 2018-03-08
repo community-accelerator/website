@@ -99,8 +99,8 @@ theme = "hugo-icon"
 
   [[params.team.item]]
     name = "Emma Collins"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
-    img = "images/person1.jpg"
+    description = '<p>Emma is an ICF Accredited Coach and a <a href="http://www.cnvc.org/cert-directory">CNVC Nonviolent Communication Certified Trainer</a> with a background in Psychotherapeutic Counselling and Mindfulness; an international trainer offering Leadership Programs, Collaborative Communication workshops and a <a href="http://thedaringway.com/help/">Certified Daring Way™ Facilitator</a>.</p><p>She believes passionately in our capacity to grow a kind of village mindedness and to recognise that now, perhaps more than ever, we are needed by one another to create the kinds of community we want to live in.</p><p>Emma has a background in Social Change, worked in the voluntary sector in Portsmouth for many years and is also a director of social impact for a local Community Interest Company.</p>'
+    img = "images/emma.jpg"
     facebook = "https://www.facebook.com/emma.collins.5245961"
     linkedin = "https://www.linkedin.com/in/emmacollinscoaching"
 
