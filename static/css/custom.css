@@ -17,7 +17,7 @@
 }
 
 .person {
-  height: 1275px;
+  height: 1100px;
   position: relative;
 }
 
@@ -62,7 +62,7 @@
 
 @media screen and (max-width: 992px) {
   .person {
-    height: 730px;
+    height: 760px;
     overflow: hidden;
   }
 

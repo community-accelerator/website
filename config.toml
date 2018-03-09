@@ -93,6 +93,7 @@ theme = "hugo-icon"
     name = "David Raybould"
     description = "<p>Dave is an entrepreneur, executive coach, speaker and founder of <a href=\"https://www.kaizeneffect.uk/\">Kaizen Effect</a>. He's known for developing high performing leaders and teams that work together harmoniously to achieve all their targets, without stress or overtime.</p><p>Over the last three years he's worked with 100+ business leaders in the UK, Europe and USA.</p><p>Dave spent five years leading groups as a Snowboard Coach in USA, Europe and Australia. He honed his business skills building a successful Financial Planning practice and has since worked with solo-preneurs through to global multi-national corporations as an executive coach and consultant.</p>"
     img = "images/david.jpeg"
+    website = "http://kaizeneffect.uk/"
     facebook = "https://www.facebook.com/david.raybould1"
     twitter = "https://twitter.com/Kaizen_Effect"
     linkedin = "https://uk.linkedin.com/in/davidraybould2"
@@ -101,13 +102,15 @@ theme = "hugo-icon"
     name = "Emma Collins"
     description = '<p>Emma is an ICF Accredited Coach and an international trainer offering Leadership Programs, Collaborative Communication workshops and a <a href="http://thedaringway.com/help/">Certified Daring Way™ Facilitator</a>.</p><p>She has a background in Social Change, worked in the voluntary sector in Portsmouth for many years and is also Director of Social Impact for a local Social Enterprise.</p><p>She believes passionately in our capacity to grow a kind of village mindedness and to recognise that now, perhaps more than ever, we are needed by one another to create the kinds of community we want to live in.</p>'
     img = "images/emma.jpg"
+    website = "https://www.emmacollinscoaching.com/"
     facebook = "https://www.facebook.com/emma.collins.5245961"
     linkedin = "https://www.linkedin.com/in/emmacollinscoaching"
 
   [[params.team.item]]
     name = "Marvin Fray"
-    description = '<p>Born and bred in Portsmouth, Marvin envisages an interdependent local community that places the wellbeing of each other above personal wealth and material gain.</p><p>Marvin is passionate about bringing positive change to the world by fuelling the creative spark in individuals and teams. He believes that when people and ideas are given the support they need, anything can happen. He has spent most of career career as a technology leader and strategist, developing and delivering critical systems into emergency services around the world.</p><p>Marvin co-founded <a href="http://kiticow.com">Kiticow</a> to help turn life-changing ideas into a reality. Kiticow originally set out to accelerate budding startups, offering technical leadership and product development services. He is now re-working Kiticow to support local community initiatives.</p>'
+    description = '<p>Born and bred in Portsmouth, Marvin envisages an interdependent local community that places the wellbeing of each other above personal wealth and material gain.</p><p>He has spent most of career career as a technology leader and strategist, developing and delivering critical systems into emergency services around the world.</p><p>Marvin co-founded <a href="http://kiticow.com">Kiticow</a> to help turn life-changing ideas into a reality. Kiticow originally set out to accelerate budding startups, offering technical leadership and product development services. He is now re-working Kiticow to support local community initiatives.</p>'
     img = "images/marvin.jpg"
+    website = "http://kiticow.com"
     facebook = "https://www.facebook.com/marvin.fray"
     twitter = "https://twitter.com/marvito"
     linkedin = "https://uk.linkedin.com/in/marvin-fray-1b183118"
