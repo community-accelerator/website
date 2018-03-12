@@ -108,7 +108,7 @@ theme = "hugo-icon"
 
   [[params.team.item]]
     name = "Marvin Fray"
-    description = '<p>Born and bred in Portsmouth, Marvin envisages an interdependent local community that places the wellbeing of each other above personal wealth and material gain.</p><p>He has spent most of career career as a technology leader and strategist, developing and delivering critical systems into emergency services around the world.</p><p>Marvin co-founded <a href="http://kiticow.com">Kiticow</a> to help turn life-changing ideas into a reality. Kiticow originally set out to accelerate budding startups, offering technical leadership and product development services. He is now re-working Kiticow to support local community initiatives.</p>'
+    description = '<p>Marvin is a technology specialist that envisages an interdependent local community that places the wellbeing of each other above personal wealth and material gain.</p><p>He has spent most of career career as a technology leader and strategist, developing and delivering critical systems into emergency services around the world.</p><p>Marvin co-founded <a href="http://kiticow.com">Kiticow</a> to help turn life-changing ideas into a reality. Kiticow originally set out to accelerate budding startups, offering technical leadership and product development services. He is now re-working Kiticow to support local community initiatives.</p>'
     img = "images/marvin.jpg"
     website = "http://kiticow.com"
     facebook = "https://www.facebook.com/marvin.fray"
