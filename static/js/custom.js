@@ -4,3 +4,18 @@ $("#contactForm").submit(function() {
         $(this).attr('action', $(this).attr('action') + addr);
 })
 
+$("span.read-more").click(function(e) {
+    e.preventDefault();
+    $(this).closest(".person").addClass("read-more");
+});
+
+$(document).ready(function() {
+    var mq = window.matchMedia( "(min-width: 769px)" );
+    if (mq.matches) {
+        var longestBio = 0;
+        $(".person").each(function () {
+            longestBio = $(this).height() > longestBio ? $(this).height() : longestBio;
+        })
+        $(".person").height(longestBio);
+    }
+})
